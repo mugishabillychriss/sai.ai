@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SAI - Specialized Artifact Interpreter",
+  "description": "An advanced archeological AI tool designed to detect, identify, and interpret historical artifacts from photographs, providing cultural context, material analysis, and conservation insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
